@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version-string": "0.1",
+  "port-version": 1,
+  "homepage": "https://github.com/kotori2/test",
+  "description": "",
+  "dependencies": [
+    "nlohmann-json"
+  ],
+  "builtin-baseline": "207fbcb55cef3544f3314ef783d169419f251b3f"
+}
